@@ -29,6 +29,7 @@ html, body {
     justify-content: space-between;
     align-items: center;
     color: white;
+    z-index: 1001;
 }
 
 .close-btn {
